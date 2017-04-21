@@ -158,9 +158,22 @@
                 <trail/>
             </StoryText>
         </FRAMEOBJECT>
+        <MASTEROBJECT XPOS="140.004" YPOS="800.064" OwnPage="0" ItemID="1816107844" PTYPE="4" WIDTH="20.0016" HEIGHT="21.8231999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20.0016 0 L20.0016 21.8232 L0 21.8232 L0 0 Z" copath="M0 0 L20.0016 0 L20.0016 21.8232 L0 21.8232 L0 0 Z" OnMasterPage="Normal Left" gXpos="140.004" gYpos="263468680.739947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="640.044" YPOS="800.064" OwnPage="1" ItemID="1816686820" PTYPE="4" WIDTH="20.0016" HEIGHT="21.8231999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20.0016 0 L20.0016 21.8232 L0 21.8232 L0 0 Z" copath="M0 0 L20.0016 0 L20.0016 21.8232 L0 21.8232 L0 0 Z" OnMasterPage="Normal Right" gXpos="25406356.1615897" gYpos="225830412.071976" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
         <PAGEOBJECT XPOS="695.2752" YPOS="1783.7856" OwnPage="3" ItemID="1779843604" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Pomegranate" PLINEART="1" ANNAME="Copy of Image1213 (3)" LOCKR="1" TransValue="0.07" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" doOverprint="1" gXpos="695.2752" gYpos="901.8936" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="100.0008" YPOS="1783.7856" OwnPage="3" ItemID="1778886180" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Pomegranate" PLINEART="1" ANNAME="Copy of Image1213 (2)" LOCKR="1" TransValue="0.07" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" doOverprint="1" gXpos="695.2752" gYpos="901.8936" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="695.2752" YPOS="7957.0296" OwnPage="17" ItemID="1846738820" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Peter River" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" gXpos="380.7752" gYpos="-206.402399999999" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="100.0008" YPOS="5311.3536" OwnPage="11" ItemID="1777624612" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Concrete" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" gXpos="380.7752" gYpos="-206.4024" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="695.2752" YPOS="5311.3536" OwnPage="11" ItemID="1777646532" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Concrete" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" gXpos="380.7752" gYpos="-206.402399999999" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="100.0008" YPOS="6193.2456" OwnPage="13" ItemID="1834327364" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Orange" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" gXpos="380.7752" gYpos="-206.4024" gWidth="0" gHeight="0" LAYER="0"/>
@@ -255,11 +268,11 @@
                 <trail ALIGN="3"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="260.0136" YPOS="5391.36" OwnPage="11" ItemID="1773547476" PTYPE="4" WIDTH="300.024" HEIGHT="35" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L300.024 0 L300.024 35 L0 35 L0 0 Z" copath="M0 0 L300.024 0 L300.024 35 L0 35 L0 0 Z" gXpos="260.0136" gYpos="5391.36" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="200.0088" YPOS="5391.36" OwnPage="11" ItemID="1773547476" PTYPE="4" WIDTH="380.0304" HEIGHT="35" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L380.03 0 L380.03 35 L0 35 L0 0 Z" copath="M0 0 L380.03 0 L380.03 35 L0 35 L0 0 Z" gXpos="200.0088" gYpos="5391.36" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESPMode="1"/>
-                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="40" FCOLOR="White" FSHADE="100" CH="P2P Networking"/>
-                <trail ALIGN="3" LINESPMode="1"/>
+                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="40" FCOLOR="White" FSHADE="100" CH="Pirate or Partake?"/>
+                <trail ALIGN="0" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="140.004" YPOS="2705.6808" OwnPage="5" ItemID="1773540244" PTYPE="4" WIDTH="515.268" HEIGHT="60.0047999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.268 0 L515.268 60.0048 L0 60.0048 L0 0 Z" copath="M0 0 L515.268 0 L515.268 60.0048 L0 60.0048 L0 0 Z" gXpos="140.004" gYpos="2705.6808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -365,7 +378,7 @@
                 <para ALIGN="3"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="735.2784" YPOS="5351.3568" OwnPage="12" ItemID="1860093524" PTYPE="4" WIDTH="515.268" HEIGHT="380.941199999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.268 0 L515.268 380.941 L0 380.941 L0 0 Z" copath="M0 0 L515.268 0 L515.268 380.941 L0 380.941 L0 0 Z" gXpos="735.2784" gYpos="5351.3568" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="735.2784" YPOS="5351.3568" OwnPage="12" ItemID="1860093524" PTYPE="4" WIDTH="515.268" HEIGHT="420.0336" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.268 0 L515.268 420.034 L0 420.034 L0 0 Z" copath="M0 0 L515.268 0 L515.268 420.034 L0 420.034 L0 0 Z" gXpos="735.2784" gYpos="5351.3568" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <tab FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100"/>
@@ -572,14 +585,14 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="150.0048" YPOS="9780.8184" OwnPage="21" ItemID="1937474612" PTYPE="4" WIDTH="460.0368" HEIGHT="60.0048000000006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L460.037 0 L460.037 60.0048 L0 60.0048 L0 0 Z" copath="M0 0 L460.037 0 L460.037 60.0048 L0 60.0048 L0 0 Z" gXpos="150.0048" gYpos="9780.8184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="140.004" YPOS="9760.8168" OwnPage="21" ItemID="1937474612" PTYPE="4" WIDTH="460.0368" HEIGHT="60.0048000000006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L460.037 0 L460.037 60.0048 L0 60.0048 L0 0 Z" copath="M0 0 L460.037 0 L460.037 60.0048 L0 60.0048 L0 0 Z" gXpos="140.004" gYpos="9760.8168" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="Who is Mr. Pratap?"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="150.0048" YPOS="9860.8264" OwnPage="21" ItemID="1868868036" PTYPE="4" WIDTH="120.0096" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" copath="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" gXpos="745.2792" gYpos="5451.3664" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="140.004" YPOS="9860.8248" OwnPage="21" ItemID="1868868036" PTYPE="4" WIDTH="120.0096" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" copath="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" gXpos="735.2784" gYpos="5451.3648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Ubuntu Mono Bold Italic" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="Shashank S"/>
@@ -657,20 +670,11 @@
                 <trail ALIGN="3"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="140.004" YPOS="7997.0328" OwnPage="17" ItemID="1939471188" PTYPE="4" WIDTH="280.0224" HEIGHT="140.0144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.022 0 L280.022 140.014 L0 140.014 L0 0 Z" copath="M0 0 L280.022 0 L280.022 140.014 L0 140.014 L0 0 Z" gXpos="-455.2704" gYpos="6233.2488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="140.004" YPOS="7997.0328" OwnPage="17" ItemID="1939471188" PTYPE="4" WIDTH="280.0224" HEIGHT="120.009599999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.022 0 L280.022 120.01 L0 120.01 L0 0 Z" copath="M0 0 L280.022 0 L280.022 120.01 L0 120.01 L0 0 Z" gXpos="-455.2704" gYpos="6233.2488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle/>
-                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="The Day "/>
-                <para/>
-                <para/>
-                <para/>
-                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="the Internet"/>
-                <para/>
-                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH=" "/>
-                <para/>
-                <para/>
-                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="stood still"/>
-                <trail/>
+                <DefaultStyle LINESPMode="1"/>
+                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="The Day the Internet stood still"/>
+                <trail LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="140.004" YPOS="8137.0472" OwnPage="17" ItemID="1939722900" PTYPE="4" WIDTH="120.0096" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" copath="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" gXpos="-455.2704" gYpos="4609.4792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -955,5 +959,38 @@
                 <trail ALIGN="1" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="695.2752" YPOS="7957.0296" OwnPage="17" ItemID="1835604036" PTYPE="6" WIDTH="595.2744" HEIGHT="841.8888" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Peter River" PCOLOR2="Black" PLINEART="1" path="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" copath="M0 0 L595.274 0 L595.274 841.889 L0 841.889 L0 0 Z" gXpos="380.7752" gYpos="-206.402399999999" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1015.3008" YPOS="7997.0328" OwnPage="18" ItemID="1797332964" PTYPE="4" WIDTH="240.0192" HEIGHT="114" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.019 0 L240.019 114 L0 114 L0 0 Z" copath="M0 0 L240.019 0 L240.019 114 L0 114 L0 0 Z" gXpos="-175.248" gYpos="6233.2488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1"/>
+                <ITEXT FONT="Ubuntu Mono Bold" FONTSIZE="45" FCOLOR="White" FSHADE="100" CH="Government and Data Privacy"/>
+                <trail ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1135.3104" YPOS="8111.0328" OwnPage="18" ItemID="1784143764" PTYPE="4" WIDTH="120.0096" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" copath="M0 0 L120.01 0 L120.01 40 L0 40 L0 0 Z" gXpos="-55.2384000000001" gYpos="4583.4648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ubuntu Mono Bold Italic" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="Pradeep J S"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="735.2784" YPOS="7997.0328" OwnPage="18" ItemID="1980968932" PTYPE="4" WIDTH="280.0224" HEIGHT="580.046399999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.022 0 L280.022 580.046 L0 580.046 L0 0 Z" copath="M0 0 L280.022 0 L280.022 580.046 L0 580.046 L0 0 Z" gXpos="-455.2704" gYpos="6233.2488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1846712356" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="The Internet is flooded with data of various kinds. The one most important one being personal data which attracts the likes of hackers. Users of the Internet are fully confident about their privacy being secured. But considering that no system can achieve ideality in all respects, we have to accept the fact that a back door is possible to encroach the privacy even in the most secured environments. Lets analyse this deeply.      "/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="    A famous controversy broke out between Apple and the US Federal Bureau of Investigation(FBI) after the infamous San Bernardino attacks on December 2,2015. The iPhone used by one of the shooter was recovered. This was a huge breakthrough for the case considering the amount of information that can be retrieved from a terrorist. A severe problem arose as it was naturally password protected. The FBI reached out Apple for assistance, but they had a different story to tell."/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="    Apple, like any other company have policies that gave the highest priority to the user's personal information. Unlocking a phone tells a huge flaw in the trust gained by its customers as if there was a possibility of at least one of them being unlocked, privacy and security of user information will become baseless. Lets remember that the phone under consideration was not just anyone’s phone, but a terrorist's. Imagine the threats that can be removed with the information gathered from it.      "/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="    As usual, when there is a controversy to resolve, the court interferes. Both sides debated heavily, with Law enforcement authorities (FBI) say that encryption used by the likes of Apple makes it harder for them to solve cases. Technology firms have kicked back, saying that encryption is key to protecting user data from hackers.      "/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="    The case went on and ultimately the FBI won convincing everyone that it appeared to be the best of a bad situation. Reports suggested that a third party outside Apple did the job well, but as expected, Apple never confirmed it. Since then, there have been many requests from law enforcement agencies across the country for Apple to help unlock other iPhones. "/>
+                <para ALIGN="3"/>
+                <ITEXT FONT="Ubuntu Mono Regular" FONTSIZE="13" FCOLOR="White" FSHADE="100" CH="    So the we question we started with still stays. Governments appear to be above privacy, which goes without saying that its by far, the best for its people."/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1035.3024" YPOS="8177.0472" OwnPage="18" ItemID="1846712356" PTYPE="4" WIDTH="235.2456" HEIGHT="400.031999999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235.246 0 L235.246 400.032 L0 400.032 L0 0 Z" copath="M0 0 L235.246 0 L235.246 400.032 L0 400.032 L0 0 Z" gXpos="-155.2464" gYpos="6413.2632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1980968932"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
